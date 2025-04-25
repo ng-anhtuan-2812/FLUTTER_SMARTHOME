@@ -21,7 +21,7 @@ void main() async {
 
 
 // Khởi tạo OneSignal
-  OneSignal.initialize("ea1c2282-5e53-42b3-bdd3-afd0bb4ba494"); // Thay bằng App ID của bạn
+  OneSignal.initialize(""); // Thay bằng App ID của bạn
   OneSignal.Notifications.requestPermission(true); // Yêu cầu quyền thông báo
 
   // (Tùy chọn) Debug trạng thái đăng ký
@@ -738,8 +738,8 @@ class RoomDetailPageState extends State<RoomDetailPage> {
   int selectedHoursRange = 6; // Default: 6 hours
 
   // Thông tin OneSignal
-  final String oneSignalAppId = "ea1c2282-5e53-42b3-bdd3-afd0bb4ba494"; // Thay bằng App ID của bạn
-  final String oneSignalApiKey = "os_v2_app_5iocfas6knblhpotv7ilws5estnbqfk5r3uefpua3hpte4wjyvraicasoqpwfaxgtlkefhpqkauikocie5e2dutkmkrxald7yuur27i"; // Thay bằng API Key của bạn
+  final String oneSignalAppId = ""; // Thay bằng App ID của bạn
+  final String oneSignalApiKey = ""; // Thay bằng API Key của bạn
 
   @override
   void initState() {
