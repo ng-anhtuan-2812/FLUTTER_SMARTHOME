@@ -1,0 +1,2 @@
+C:/Users/Admin/StudioProjects/flutter_speach_to_text/android/app/.cxx/RelWithDebInfo/5i1k4s3d/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Admin/StudioProjects/flutter_speach_to_text/android/app/.cxx/RelWithDebInfo/5i1k4s3d/armeabi-v7a/CMakeFiles/rebuild_cache.dir

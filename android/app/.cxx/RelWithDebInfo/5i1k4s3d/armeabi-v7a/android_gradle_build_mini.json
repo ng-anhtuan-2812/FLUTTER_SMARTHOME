@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Admin\\Desktop\\mobile_app\\flutter_sdk\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Admin\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Admin\\StudioProjects\\flutter_speach_to_text\\android\\app\\.cxx\\RelWithDebInfo\\5i1k4s3d\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Admin\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Admin\\StudioProjects\\flutter_speach_to_text\\android\\app\\.cxx\\RelWithDebInfo\\5i1k4s3d\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

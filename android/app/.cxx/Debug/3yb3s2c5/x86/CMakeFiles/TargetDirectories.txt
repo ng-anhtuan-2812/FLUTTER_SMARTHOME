@@ -1,0 +1,2 @@
+C:/Users/Admin/StudioProjects/flutter_speach_to_text/android/app/.cxx/Debug/3yb3s2c5/x86/CMakeFiles/edit_cache.dir
+C:/Users/Admin/StudioProjects/flutter_speach_to_text/android/app/.cxx/Debug/3yb3s2c5/x86/CMakeFiles/rebuild_cache.dir
