@@ -1,5 +1,7 @@
-GitHub link for complete code :- 
-https://github.com/viranchi953/flutter_speach_to_text
+added SQL supabase, STT, TTS, HTTP, embedded chatbot using n8n in smarthome app
+
+
+
 
 Add this two lines in AndroidManifest.xml file :-
     <uses-permission android:name="android.permission.RECORD_AUDIO"/>
