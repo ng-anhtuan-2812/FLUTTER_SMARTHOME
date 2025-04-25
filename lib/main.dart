@@ -15,10 +15,9 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   await Supabase.initialize(
-    url: 'https://acrsgnhnttvqpdahxpsy.supabase.co',
+    url: '  KEY',
     anonKey:
-    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFjcnNnbmhudHR2cXBkYWh4cHN5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDMxNzU4OTUsImV4cCI6MjA1ODc1MTg5NX0.6Xi6wyk8t2o9PY442YgoTRYRSDhgZUgmMGpikK0i4kk',
-  );
+    '  KEY );
 
 
 // Khởi tạo OneSignal
